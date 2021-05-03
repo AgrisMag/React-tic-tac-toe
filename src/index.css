@@ -43,6 +43,8 @@ ul {
 
 .game {
   display: flex;
+  background-color: #999;
+  justify-content: center;
   flex-direction: row;
 }
 
